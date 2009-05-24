@@ -1,0 +1,2 @@
+This Code is released under the full GPL license available
+ here: http://www.gnu.org/licenses/gpl.html
